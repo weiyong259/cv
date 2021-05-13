@@ -1,0 +1,85 @@
+body{
+  margin : 0 0;
+  background-image: url("images/background7.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  position: absolute;
+  font-size: 50px;
+  color: #a934ff;
+  font-family: 'Caveat', cursive;
+  margin: 0 25%;
+}
+h2{
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+  color: yellow;
+  padding: 10px;
+}
+h3{
+  font-family: 'Dancing Script', cursive;
+  color: pink;
+  padding: 10px;
+}
+h4{
+  font-family: 'Ma Shan Zheng', cursive;
+  color: white;
+  padding: 50px;
+}
+a{
+  font-family: 'Caveat', cursive;
+}
+.content{
+  visibility: hidden;
+}
+.title-image{
+  width: 50%;
+  height: auto;
+  position: absolute;
+  margin: 0 25%;
+  cursor: pointer;
+}
+.color-section{
+  background-color: #6639a6;
+  color: white;
+}
+.white-section{
+  background-color: #fff;
+}
+.message-image{
+  width: 60%;
+  height: auto;
+  margin: 0 20%;
+  cursor: pointer;
+}
+.message-to-you{
+  background-image: url("images/background5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.place-to-go{
+  background-image: url("images/background8.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#message{
+  padding : 50px;
+}
+#place{
+  padding : 50px;
+}
+#memory{
+  padding : 100px;
+}
+/* .button{
+  position: relative;
+  top : -50px;
+  left : 85%;
+} */
